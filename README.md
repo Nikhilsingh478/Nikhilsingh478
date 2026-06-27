@@ -1,187 +1,193 @@
+```md
 <div align="center">
 
-# Hi there 👋 I'm Nikhil Singh
+# Nikhil Singh
 
-### Full Stack Developer • Desktop App Developer • AI Builder
+### Full Stack Developer • Desktop Applications • AI Engineering
 
-Building performant web applications, offline desktop software, and AI-powered products with a strong focus on clean architecture, user experience, and scalability.
+Building modern web applications, offline desktop software, and AI-powered products with a focus on performance, scalability, and exceptional user experiences.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nsportfolio-seven.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilsingh14788/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelsingh45940s@gmail.com)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I'm a Computer Engineering student from India who enjoys building products that solve real-world problems.
+I'm a Computer Engineering student passionate about building products from the ground up.
 
-Rather than following tutorials, I prefer building complete applications—from planning and UI design to backend architecture and deployment.
+I enjoy taking an idea from a blank canvas to a production-ready application—designing the interface, architecting the backend, solving real-world problems, and continuously improving the user experience.
 
-Currently, I'm focused on improving my backend engineering skills, learning AI application development, and building production-ready software.
-
----
-
-# 🚀 What I'm Currently Working On
-
-- ⚡ AI-powered applications
-- 💻 Offline-first desktop software
-- 🌐 Full Stack Web Applications
-- 🏗 Backend Architecture
-- 📈 Performance & SEO Optimization
+Rather than collecting tutorial projects, I focus on building software that businesses and users can actually use.
 
 ---
 
-# 🛠 Tech Stack
+# Current Focus
 
-## Languages
-
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
+- Building AI-powered applications
+- Backend architecture & scalable APIs
+- Offline-first desktop software
+- Performance optimization
+- System Design
+- Learning modern AI engineering workflows
 
 ---
 
-## Frontend
+# Tech Stack
 
-- React
-- Vite
-- Tailwind CSS
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,firebase" />
+</p>
+
+**Also work with**
+
 - GSAP
 - Framer Motion
 
 ---
 
-## Backend
+### Backend
 
-- Node.js
-- Express.js
-- REST APIs
-- Firebase Authentication
-
----
-
-## Databases
-
-- MongoDB
-- SQLite (sql.js)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ---
 
-## Desktop Development
+### Desktop Development
 
 - Electron
 - React
 - Vite
-- sql.js
+- sql.js (SQLite)
 - JsBarcode
-- HTML Print API
 - html2canvas
+- Native Print API
 
 ---
 
-## Tools
+### Tools
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
-- Vercel
-- Firebase
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
-
-## AI Legal Assistant
-
-Building an AI-powered legal research platform focused on privacy and local AI models.
-
----
+# Featured Projects
 
 ## Thunderbolt
 
-Premium full-stack e-commerce platform featuring authentication, wishlist, cart management, responsive design, and an admin dashboard.
+Premium full-stack e-commerce platform.
 
----
+**Highlights**
 
-## RECURRA
-
-AI-powered exam prediction platform that analyzes previous years' papers to generate high-probability questions.
+- Authentication
+- Wishlist & Cart
+- Admin Dashboard
+- Responsive Design
+- MongoDB Backend
+- Firebase Authentication
+- Razorpay Ready
+- Serverless APIs
 
 ---
 
 ## Offline Billing Software
 
-Desktop billing software built for businesses with a focus on speed, simplicity, and complete offline functionality.
+Offline desktop billing application built using Electron.
 
 **Highlights**
 
-- Offline-first architecture
-- Barcode generation
-- Bill printing
-- SQLite-based local storage
-- Zero server dependency
-- Windows desktop application
+- Windows Desktop Application
+- SQLite (sql.js)
+- Barcode Generation
+- Invoice Printing
+- Offline-first Architecture
+- Zero Server Dependency
 
 ---
 
-# 📚 Currently Learning
+## RECURRA
+
+AI-powered platform that analyzes previous year question papers and predicts the most probable exam questions.
+
+---
+
+## AI Legal Assistant *(In Progress)*
+
+Privacy-first legal research assistant powered by local LLMs and retrieval-augmented generation (RAG).
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhilsingh478&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilsingh478&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nikhilsingh478&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# Currently Learning
 
 - System Design
 - AI Engineering
-- RAG Applications
 - Local LLMs
-- Backend Scalability
+- Retrieval-Augmented Generation (RAG)
 - Docker
+- Backend Scalability
 
 ---
 
-# 💡 What I Enjoy Building
+# Interests
 
-- Modern Web Applications
-- Desktop Applications
 - AI Products
-- Business Software
-- Internal Tools
-- Beautiful User Interfaces
+- Full Stack Development
+- Desktop Applications
+- Developer Tools
+- SaaS
+- UI Engineering
+- Motion Design
+- Clean Architecture
 
 ---
 
-# 📊 GitHub Stats
+# Let's Connect
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-Portfolio: YOUR_PORTFOLIO
-
-LinkedIn: YOUR_LINKEDIN
-
-Email: YOUR_EMAIL
+- 🌐 Portfolio — https://nsportfolio-seven.vercel.app/
+- 💼 LinkedIn — https://www.linkedin.com/in/nikhilsingh14788/
+- 📧 Email — neelsingh45940s@gmail.com
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by! ⭐
+*"Code is only half the product. The other half is the experience."*
 
-I'm always excited to learn, build, and collaborate on meaningful projects.
+⭐ Thanks for visiting my profile!
 
 </div>
+```
