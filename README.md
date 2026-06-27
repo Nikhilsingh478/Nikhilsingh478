@@ -1,192 +1,232 @@
 <div align="center">
 
-# Nikhil Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-### Full Stack Developer • Desktop Applications • AI Engineering
+<br/>
 
-Building modern web applications, offline desktop software, and AI-powered products with a focus on performance, scalability, and exceptional user experiences.
+```
+  _   _ _ _    _     _ _    ____  _             _     
+ | \ | (_) | _| |__ (_) |  / ___|(_)_ __   __ _| |__  
+ |  \| | | |/ / '_ \| | |  \___ \| | '_ \ / _` | '_ \ 
+ | |\  | |   <| | | | | |   ___) | | | | | (_| | | | |
+ |_| \_|_|_|\_\_| |_|_|_|  |____/|_|_| |_|\__, |_| |_|
+                                            |___/       
+```
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Developer;Desktop+App+Engineer;AI+Product+Builder;Building+what+actually+ships." alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nsportfolio-seven.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilsingh14788/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelsingh45940s@gmail.com)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nsportfolio--seven.vercel.app-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://nsportfolio-seven.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhilsingh14788-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilsingh14788/)
+[![Email](https://img.shields.io/badge/Email-neelsingh45940s@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelsingh45940s@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Nikhilsingh478-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhilsingh478)
+
+<br/>
 
 </div>
 
 ---
 
-# About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&section=header" width="100%"/>
+</div>
 
-I'm a Computer Engineering student passionate about building products from the ground up.
+## `> whoami`
 
-I enjoy taking an idea from a blank canvas to a production-ready application—designing the interface, architecting the backend, solving real-world problems, and continuously improving the user experience.
+```typescript
+const nikhil = {
+  name        : "Nikhil Singh",
+  alias       : "Neel",
+  role        : "Full Stack Developer · Desktop Engineer · AI Builder",
+  location    : "Bhusawal, Maharashtra, India 🇮🇳",
+  education   : "B.Tech CSE — Shri Sant Gadge Baba College of Engineering",
+  philosophy  : "Build complete products. Ship fast. Learn by doing.",
+  currentFocus: [
+    "AI-powered applications",
+    "Offline-first desktop software",
+    "Production-grade web apps",
+    "Backend architecture & scalability",
+  ],
+  openTo      : ["Freelance", "Contracts", "Collabs", "Interesting Problems"],
+};
+```
 
-Rather than collecting tutorial projects, I focus on building software that businesses and users can actually use.
+I don't follow tutorials — I build products. From UI design to backend architecture to deployment, I own the full stack. Currently honing backend engineering, AI application development, and shipping things that work without an internet connection.
+
+<br/>
 
 ---
 
-# Current Focus
+## `> tech_stack --verbose`
 
-- Building AI-powered applications
-- Backend architecture & scalable APIs
-- Offline-first desktop software
-- Performance optimization
-- System Design
-- Learning modern AI engineering workflows
-
----
-
-# Tech Stack
+<div align="center">
 
 ### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Frontend
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,firebase" />
-</p>
+### Backend & Auth
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Also work with**
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite_(sql.js)-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-- GSAP
-- Framer Motion
+### Desktop & AI
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
----
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-### Backend
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
----
-
-### Desktop Development
-
-- Electron
-- React
-- Vite
-- sql.js (SQLite)
-- JsBarcode
-- html2canvas
-- Native Print API
-
----
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
-</p>
+<br/>
 
 ---
 
-# Featured Projects
+## `> ls ./projects`
 
-## Thunderbolt
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Premium full-stack e-commerce platform.
+### ⚡ Thunderbolt
+**Production E-Commerce PWA**
 
-**Highlights**
+Full-stack e-commerce platform built for real clients. Features Firebase Auth, wishlist & cart management, admin dashboard, Cloudinary image pipeline, FCM push notifications, and a Capacitor mobile layer targeting Google Play.
 
-- Authentication
-- Wishlist & Cart
-- Admin Dashboard
-- Responsive Design
-- MongoDB Backend
-- Firebase Authentication
-- Razorpay Ready
-- Serverless APIs
+`React` `TypeScript` `MongoDB` `Firebase` `Tailwind` `PWA`
 
----
+</td>
+<td width="50%" valign="top">
 
-## Offline Billing Software
+### 🧠 JARVIS — AI OS
+**Personal AI Operating System**
 
-Offline desktop billing application built using Electron.
+Web-based AI assistant with Gemini integration, wake-word detection, Supabase persistence, Kokoro TTS voice output, smart home device controls, and a real-time dashboard. Think: J.A.R.V.I.S., but actually mine.
 
-**Highlights**
+`React 19` `Vite` `Supabase` `Gemini API` `Web Speech API`
 
-- Windows Desktop Application
-- SQLite (sql.js)
-- Barcode Generation
-- Invoice Printing
-- Offline-first Architecture
-- Zero Server Dependency
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📄 Offline Billing Software
+**Windows Desktop App for Businesses**
 
-## RECURRA
+Fully offline billing and inventory management app for a real client. Zero server dependency. Runs locally on any Windows machine with barcode generation, bill printing, and SQLite-powered storage.
 
-AI-powered platform that analyzes previous year question papers and predicts the most probable exam questions.
+`Electron` `React` `sql.js` `JsBarcode` `html2canvas`
 
----
+</td>
+<td width="50%" valign="top">
 
-## AI Legal Assistant *(In Progress)*
+### 📚 RECURRA
+**AI Exam Prediction Platform**
 
-Privacy-first legal research assistant powered by local LLMs and retrieval-augmented generation (RAG).
+Analyzes previous years' question papers using AI to surface high-probability exam questions. Built for engineering students with difficulty badges, topic trends, skip plans, and a survival kit mode.
 
----
+`React` `Gemini API` `Supabase` `Vite`
 
-# GitHub Analytics
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
+### ⚖️ AI Legal Assistant *(In Progress)*
+**Privacy-First Legal Research Tool**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhilsingh478&show_icons=true&theme=github_dark&hide_border=true"/>
+AI-powered legal platform for Indian advocates — hybrid India-hosted LLM architecture, DPDP Act 2023 compliant, React Native frontend. Focused on privacy, accuracy, and local data residency.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilsingh478&layout=compact&theme=github_dark&hide_border=true"/>
+`React Native` `Local LLM` `RAG` `DPDP Compliant`
 
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
+### 🎥 Cinematic Wedding Site
+**Bold Frame Studios Portfolio Piece**
 
-<img src="https://streak-stats.demolab.com?user=Nikhilsingh478&theme=github-dark-blue&hide_border=true"/>
+Luxury cinematic wedding website featuring a Veo-generated video transition into a React site. Built as a showcase for Bold Frame Studios — my creative web agency.
 
-</p>
+`React` `GSAP` `Framer Motion` `Veo AI` `Vite`
 
----
+</td>
+</tr>
+</table>
 
-# Currently Learning
-
-- System Design
-- AI Engineering
-- Local LLMs
-- Retrieval-Augmented Generation (RAG)
-- Docker
-- Backend Scalability
-
----
-
-# Interests
-
-- AI Products
-- Full Stack Development
-- Desktop Applications
-- Developer Tools
-- SaaS
-- UI Engineering
-- Motion Design
-- Clean Architecture
+<br/>
 
 ---
 
-# Let's Connect
+## `> git log --learning`
 
-- 🌐 Portfolio — https://nsportfolio-seven.vercel.app/
-- 💼 LinkedIn — https://www.linkedin.com/in/nikhilsingh14788/
-- 📧 Email — neelsingh45940s@gmail.com
+```
+Currently studying:
+  ├── System Design & distributed architecture
+  ├── AI Engineering — RAG pipelines, vector DBs
+  ├── Local LLMs — privacy-first deployment
+  ├── Docker & containerization
+  └── Backend scalability patterns
+```
+
+<br/>
+
+---
+
+## `> github_stats --theme dark`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nikhilsingh478&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilsingh478&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Nikhilsingh478&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilsingh478&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-*"Code is only half the product. The other half is the experience."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
-⭐ Thanks for visiting my profile!
+**Open to freelance projects, contracts, and interesting collabs.**
+
+*If you're building something real — let's talk.*
+
+[![Email](https://img.shields.io/badge/Reach_Out-neelsingh45940s@gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelsingh45940s@gmail.com)
+
+<br/>
+
+⭐ *If something I built helped you — a star goes a long way.*
 
 </div>
-```
